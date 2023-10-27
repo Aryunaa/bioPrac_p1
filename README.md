@@ -1,6 +1,6 @@
-# bioPrac_p1
-Bioinf prac. Project 1
-1. code in lab journals
-
-2. managing environments in yaml file
-3. article in project1 file
+# Project 1
+* You can find code in lab journals
+* You can make an environment with all the requirements with command
+```python
+conda env create --name envname --file=requirements.yaml
+```
